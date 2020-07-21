@@ -51,3 +51,5 @@ plot_polycoherence(freq1, freq2, bicoh)
 ```
 
 ![pic](doc/bicoherence_zoom.png)
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3953617.svg)](https://doi.org/10.5281/zenodo.3953617)
